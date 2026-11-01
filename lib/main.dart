@@ -21,8 +21,8 @@ class MainApp extends StatelessWidget {
                 margin: EdgeInsets.all(20),
                 padding: EdgeInsets.all(16),
                 decoration: BoxDecoration(
-                  color: Colors.blueAccent,
-                  borderRadius: BorderRadius.circular(12),
+                  color: Colors.deepPurple,
+                  borderRadius: BorderRadius.circular(20),
                 ),
                 child: Text(
                   'Boîte stylisée avec Container',
